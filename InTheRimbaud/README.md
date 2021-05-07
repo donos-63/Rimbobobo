@@ -1,4 +1,35 @@
 # Rimbobobo
+<<<<<<< .mine
+
+## Installation
+* tu prends le requirements.txt et t'installe c'ki faut
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
 
 ## Installation
 * tu prends le requirements.txt et t'installe c'ki faut
@@ -28,3 +59,4 @@
 
 ## Azure
 * pas de compte, pas de déploiement
+>>>>>>> .theirs
