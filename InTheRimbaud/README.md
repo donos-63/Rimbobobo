@@ -11,7 +11,7 @@
      ```
 
 ## Fonctionnalités
-### Homepage
+### Administration
 ![admin](screenshots/admin.png)
 * Les articles s'administrent dans [la page admin](http://127.0.0.1:8000/admin/) . Le login / passowrd a été fournit dans simplonline
   * CRUD sur les articles
@@ -49,8 +49,9 @@
 ![admin](screenshots/detail.png)
 * l'url des détails d'article est **http://127.0.0.1:8000/XXX** où XXX correspond à l'id de l'article 
 
+---
 
-## technique
+## Technique
 * base de donnée hebergée sur [ElephantSQL](https://www.elephantsql.com/)
 
 ---
